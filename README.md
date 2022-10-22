@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eyanquenb
 - 👀 I’m interested in finance
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python
 - 📫 eyanquenb[at]gmail
 
 <!---
